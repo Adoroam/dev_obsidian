@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "0652e0f7e2dddd14",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a9d2131c01fa8fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Desktop Setup/Windows 10.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c934edac8a1d5c3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f1370a9d95d87e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c616bd776135d328",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "28049729ce6d6f1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "13ac4c952ab943cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "78cb10bb3f698f70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c5b8b964df12fc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Desktop Setup/Windows 10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d4d8974660c064b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Desktop Setup/Windows 10.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273
+  },
+  "active": "0a9d2131c01fa8fa",
+  "lastOpenFiles": [
+    "Desktop Setup/Windows 10.md",
+    "System/Assets/keys.png",
+    "Desktop Setup/Windows Gaming PC.md"
+  ]
+}
