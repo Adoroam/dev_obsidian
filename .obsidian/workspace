@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "885f7e9efb4c07cf",
+        "id": "68ac4111858f8968",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -105,7 +105,7 @@
     "direction": "horizontal",
     "width": 297
   },
-  "active": "885f7e9efb4c07cf",
+  "active": "68ac4111858f8968",
   "lastOpenFiles": [
     "CS50 Notes/Week 1 - C.md",
     "Desktop Setup/Windows 10.md",
