@@ -15,4 +15,3 @@ To template strings using `printf`, you can use `%s` and supply a second argumen
 ```C
 printf("hello %s", some_var)
 ```
-hello
