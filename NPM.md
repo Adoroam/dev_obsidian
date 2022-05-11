@@ -1,0 +1,1 @@
+[publishing](https://zellwk.com/blog/publish-to-npm/)

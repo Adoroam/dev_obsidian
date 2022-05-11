@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS50 Notes/Week 1 - C.md",
+            "file": "NPM.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50 Notes/Week 1 - C.md",
+                "file": "NPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50 Notes/Week 1 - C.md"
+                "file": "NPM.md"
               }
             }
           },
@@ -107,6 +107,7 @@
   },
   "active": "68ac4111858f8968",
   "lastOpenFiles": [
+    "NPM.md",
     "CS50 Notes/Week 1 - C.md",
     "Desktop Setup/Windows 10.md",
     "System/Assets/keys.png",
