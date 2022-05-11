@@ -1,0 +1,7 @@
+- cd - change directory 
+- cp - copy
+- ls - list items in the current directoy
+- mkdir - make a new directory
+- mv - move files (or directories with -R for recursive)
+- rm - remove a file (or directories with -R for recursive)
+- rmdir - remove a directory
